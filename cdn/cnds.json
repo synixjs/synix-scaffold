@@ -1,0 +1,13 @@
+{
+    "jquery": {
+        "js": "https://code.jquery.com/jquery-3.4.1.min.js"
+    },
+    "bootstrap": {
+        "js": "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js",
+        "css": "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    },
+    "materializecss": {
+        "js": "https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js",
+        "css": "https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"
+    }
+}
